@@ -1,0 +1,23 @@
+{
+  "name": "MathJax",
+  "version": "0.0.0",
+  "description": "This is release branch v2.4 of MathJax.",
+  "main": "MathJax.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/will-ob/MathJax.git"
+  },
+  "author": "",
+  "license": "Apache 2.0",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/will-ob/MathJax/issues"
+  }
+}
